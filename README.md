@@ -1,8 +1,6 @@
 ## 📚 Table of Contents
 
-- [🆕 What's New](#-whats-new)
 - [📚 Table of Contents](#-table-of-contents)
-- [🛠️ Getting Started](#-getting-started)
     + [Docker Container Guide](#docker-container-guide)
     + [Installation Guide for Windows (.exe)](#installation-guide-for-windows-exe)
     + [Use python](#use-python)
